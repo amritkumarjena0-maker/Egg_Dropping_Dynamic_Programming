@@ -1,0 +1,4 @@
+===== EGG DROPPING PROBLEM =====
+Enter number of eggs: 9 
+Enter number of floors: 7
+Minimum number of attempts: 3
